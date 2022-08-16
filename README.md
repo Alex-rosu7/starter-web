@@ -10,8 +10,10 @@ Repository and various commands.
 ## Purpose
 
 Sample website with plenty of files for demos
+Some other purpose
 
 ##Deployment
+This is a simple web project
 
 
 ##How To Contribute
